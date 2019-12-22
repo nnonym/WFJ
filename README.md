@@ -1,5 +1,4 @@
-# xDDoS 
-### What Is A DDos-Attack
+# xDDoS script by nnonym
 
 ### How to install
 
