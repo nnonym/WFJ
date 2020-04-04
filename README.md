@@ -1,15 +1,15 @@
-# xDDoS script by nnonym
+# WiFi Jammer by nnonym
 
 ### How to install
 
-git clone https://github.com/nnonym/xDDoS
+git clone https://github.com/nnonym/WFJ
 
-cd xDDoS
+cd WFJ
 
 chmod +x *
 
 bash install.sh
 
-python2 xddos.py
+python3 WFJ.py
 
 
